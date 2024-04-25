@@ -1,7 +1,6 @@
-En la carpeta "Modulos por separado" estan, tal como su nombre lo indica, todos los modulos usados en el TP con sus respectivos testbench.
+## Estructura de Carpetas
+En la carpeta "Modulos por separado" se encuentran todos los módulos utilizados en el TP, junto con sus respectivos testbench.
 
-En la carpeta "fuentes - tp final" esta todo lo necesario para que funcione, incluido una copia de cada uno de los modulos para mayor comodidad a la hora de cargar los archivos.
+En la carpeta "fuentes - tp final" se incluye todo lo necesario para su funcionamiento, incluyendo una copia de cada uno de los módulos para mayor comodidad al cargar los archivos. Todos los módulos, excepto los correspondientes a la UART, son de mi autoría. Estos últimos fueron modificados en cierta medida para integrarse correctamente con el resto.
 
-Todos los modulos, con excepcion de los correspondientes a la UART son de mi autoria. Aunque se modifico en alguna medida estos para que se acoplen bien el resto. 
-
-uart_top.bit es el BITSTREM generado
+El archivo uart_top.bit es el BITSTREAM generado.
